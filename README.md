@@ -35,3 +35,8 @@ Another reason econ consulting will value higher-ranking programs is that firing
 | **Amazon** | 80+ | 90+ | 35–45 | 30–40 | 35–45 | UW Seattle, Minnesota, UCLA, Stanford, Duke |
 | **Meta (Facebook)** | 15–20 | 10–15 | <5 | 5–8 | 8–10 | Stanford, Berkeley, Harvard |
 | **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 | UChicago, Stanford, Duke, Columbia |
+
+## Econ Consulting PhD-level Interview Tips
+
+
+## Firm Comparisons
