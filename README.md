@@ -37,6 +37,6 @@ Another reason econ consulting will value higher-ranking programs is that firing
 | **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 | UChicago, Stanford, Duke, Columbia |
 
 ## Econ Consulting PhD-level Interview Tips
-
+The interviews for econ consulting are quite uniform and are very similar to the style of academia interviews. I detailed the interview tips in [Econ Consulting Interview Tips](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Econ_Consulting_Interview.md).
 
 ## Firm Comparisons
