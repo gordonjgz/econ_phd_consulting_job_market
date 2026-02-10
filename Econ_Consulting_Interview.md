@@ -38,4 +38,14 @@ First round interviews for most firms are behavioral + talking about your resear
 
 In the end, be sure to prepare some questions to ask them. Good questions include firm culture, staffing model, or anything that showcases your curiosity in the industry. After the interview, be sure to write thank-you notes to your interviewers. If they take time to respond to your thank-you notes, it's an indication of a good sign. 
 
+Few and few companies are still using case interviews as a first round interview format. For case interviews, I will recommend doing the following:
+
+1. Review consulting websites for case examples to familiarize yourself.
+2. Explore guidelines like the DOJ Merger Guidelines or skim books like the Handbook of Antitrust to understand how consultants think and approach problems. Focus less on the jargons, but more on the structure of thinking.
+3. When answering case study questions, use a step-by-step approach, starting with a simple explanation. Be sure to explain the economics and the big picture instead of falling into the weeds of model/data. E.g., the goal here is to prove that A causes B, we will be looking for data C, D, and E, with endogeneity concerns, we can look for certain IV, instead of focusing too much on the details of is data C is available, how should we process these.
+4. Sometimes you will be asked to argue against yourself; be prepared for that. For example, if you are first asked to argue for the plaintiff, the interviewer might ask you to switch sides and argue for the defendants. Don't argue against yourself.
+5. Don't be controlled by your prior, and be fair to both sides. 
+6. Use AI as a good mock interview tool for case interviews. 
+
+
 
