@@ -47,5 +47,15 @@ Few and few companies are still using case interviews as a first round interview
 5. Don't be controlled by your prior, and be fair to both sides. 
 6. Use AI as a good mock interview tool for case interviews. 
 
+Regardless of the format, you should treat your interview as a conversation. It helps a lot to not treat it as an interview. Be cool, but do not try hard to look cool.
 
+### 3. Fly outs
+Just like academia flyouts, consulting flyouts usually have your presentation (usually your JMP) and multiple rounds of interviews. The interviews themselves are largely similar to first-round interviews, but focus more on culture fit, your presentation skills instead of gauging your technical skills. Here are a couple of important tips in addition to the typical JMP presentation in academia:
+
+1. Be nice to administrative people. This is very important. If you get hired by the firm, they will be your colleague as well. When coordinating flights, try to be easy to work with and follow the reimbursement guidelines.
+2. For your JMP, ask about the length. Typically, an academia flyout will have your presentation to be 75-90 mins. In consulting, it's likely to be 60 mins, meaning you will need to cut down some slides.
+3. For your slides, be extra, extra careful regarding typos, mislabeling, and the clarity of your graph.
+4. Just like academia presentation, you need to make sure people with basic economic knowledge can mostly understand what you are doing.
+5. Be honest about your shortcomings and don't try to be too defensive.
+6. I personally will not recommend trying too hard to tailor to consulting audiences, especially for IO students. They understand this is your JMP produced for research purposes, and authenticity is an asset here. 
 
