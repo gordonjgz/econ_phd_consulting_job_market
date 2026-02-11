@@ -64,7 +64,7 @@ Interviews for economic consulting are fairly uniform across firms and share sim
 * **Be Authentic:** Be truthful about your research interests, even if they don't align with the firm's cases. Consultants are often "case-fatigued" and enjoy discussing novel, unrelated economic topics during the job talk.
 * **Know the Industry:** Demonstrate that you understand what the job actually entails (supporting experts, data work, report writing) vs. what you *think* it entails (pure academic research).
 
-For a deep dive, see my detailed guide: [**Econ Consulting Interview Tips**](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Econ_Consulting_Interview.md).
+For a deep dive, see my detailed guide: [**Econ Consulting Interview Tips**](Econ_Consulting_Interview.md).
 
 ---
 
@@ -77,5 +77,5 @@ On the surface, every economic consulting firm looks identical. They all claim t
     1.  **Staffing Model:** How do you get work? (Do you have to network internally to find projects, or are you assigned to a fixed team/vertical?)
     2.  **Expert Model:** Who testifies? (Does the firm primarily support famous **external academic affiliates**, or do they prefer to "grow their own" **internal experts**?)
 
-For a deep dive on how specific firms (AG, Cornerstone, Compass, NERA, etc.) differ, see my detailed guide: [**Econ Consulting Firm Comparison**](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Firm_Comparison.md).
+For a deep dive on how specific firms (AG, Cornerstone, Compass, NERA, etc.) differ, see my detailed guide: [**Econ Consulting Firm Comparison**](Firm_Comparison.md).
 
