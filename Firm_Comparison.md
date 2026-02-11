@@ -13,7 +13,7 @@ While the technical work (running regressions, writing reports) is similar acros
 * **Best For**: PhDs who are social, value autonomy, and want the safety net of being able to switch practice areas without leaving the firm.
 
 ### 2. The "Silo" / Franchise Models
-**Examples**: Compass Lexecon, FTI Consulting, Charles River Associates (CRA), Berkeley Research Group (BRG)
+**Examples**: Compass Lexecon, Charles River Associates (CRA), Berkeley Research Group (BRG)
 
 * **The Model**: These firms often operate as a federation of specialized franchises. You are typically hired *into* a specific practice group or to support a specific Senior Managing Director (SMD).
 * **Berkeley Research Group (BRG)**: Known for a highly entrepreneurial "expert-led" model. The culture is very distinct depending on if you are in the Tech practice (David Teece’s group) vs. Healthcare or Construction. It can feel like working for a small startup within a large brand.
@@ -51,6 +51,6 @@ While the technical work (running regressions, writing reports) is similar acros
 | Firm Type | Key Firms | How you get staffed | The Trade-off |
 | :--- | :--- | :--- | :--- |
 | **Internal Market** | AG, Cornerstone | **Networking**: You build relationships to find work you like. | Requires soft skills to "sell" yourself internally; can feel unstructured. |
-| **The Silo** | Compass, CRA, BRG, FTI | **Assignment**: You work for your specific practice/boss. | High specialization; risk of getting stuck in a bad team/practice. |
+| **The Silo** | Compass, CRA, BRG| **Assignment**: You work for your specific practice/boss. | High specialization; risk of getting stuck in a bad team/practice. |
 | **Academic Silo** | Brattle | **Practice-Based**: Hired into a specific vertical (e.g., Energy). | Collegiate vibe, but less mobility than "Internal Market" firms. |
 | **Fixed Team** | NERA | **Stable Unit**: You work with a consistent team. | Very stable workflow; less variety in case types and coworkers. |
