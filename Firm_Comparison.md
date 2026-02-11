@@ -41,7 +41,7 @@ While the technical work (running regressions, writing reports) is similar acros
 ### 5. The Tech Hybrids & New Entrants
 **Examples**: Keystone Strategy, Econic Partners
 
-* **Keystone**: Operates more like a tech strategy firm (McKinsey meets Google). Staffing is project-based but moves at a much faster, "tech" pace. High volatility, high exit opportunities to Tech Strategy.
+* **Keystone**: Operates more like a tech strategy firm (McKinsey meets Google). Staffing is project-based but moves at a much faster, "tech" pace. They often only work in the tech industry. High volatility, high exit opportunities to Tech Strategy. 
 * **Econic**: A new entrant focused on high-stakes antitrust. Likely offers a "start-up" equity component or high compensation variance, with a focus on building a new elite team from the ground up.
 
 ---
