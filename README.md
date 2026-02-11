@@ -39,7 +39,7 @@ Another reason econ consulting will value higher-ranking programs is that firing
 ## Econ Consulting PhD-level Interview Tips
 The interviews for econ consulting are quite uniform and are very similar to the style of academia interviews. This means the marginal cost for preparing an interview for each firm is quite low. 
 
-If you want a TLDR for the interview tips, it is recommended to pick a specific lane for yourself instead of trying to be a jack of all trades. Be truthful about what your research interests are, even when the research itself might have nothing to do with the cases they have been working on. Many econ consultants are buried under their work and love to talk about something unrelated to their cases. 
+Interview tips TLDR: it is recommended to pick a specific lane for yourself instead of trying to be a jack of all trades. Be truthful about what your research interests are, even when the research itself might have nothing to do with the cases they have been working on. Many econ consultants are buried under their work and love to talk about something unrelated to their cases. 
 
 If you prefer a longer version, I detailed the interview tips in [Econ Consulting Interview Tips](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Econ_Consulting_Interview.md).
 
