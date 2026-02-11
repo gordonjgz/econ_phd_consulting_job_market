@@ -38,7 +38,7 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 ## Job Market Overview: Placement Trends
 > **Note on Data:** The following table aggregates initial placement results for job market candidates from approximately the top 30 economics departments between 2020 and 2025. This data was compiled using AI-assisted research tools to synthesize public placement records and LinkedIn data. It is not exhaustive and should be treated as a qualitative snapshot of recruiting trends rather than a precise census.
 
-| Firm | 2020-2021 (Tech Peak) | 2021-2022 (The Turn) | 2022-2023 (Correction) | 2023-2024 (Stabilization) | 2024–2025 (Current) | Primary Talent Feeders |
+| Firm | 2020-21 (Tech Peak) | 2021-22 (The Turn) | 2022-23 (Correction) | 2023-24 (Stabilization) | 2024–25 (Current) | Primary Talent Feeders |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | **Analysis Group** | 25–30 | 30–35 | 40–50 | 45–55 | 50+ | Harvard, MIT, Boston Univ, Berkeley, Wisconsin |
 | **Bates White** | 8–10 | 10–12 | 12–15 | 15–18 | 15–18 | Johns Hopkins, Maryland, Penn State, UVa |
@@ -54,11 +54,14 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 | **Meta (Facebook)** | 15–20 | 10–15 | <5 | 5–8 | 8–10 | Stanford, Berkeley, Harvard |
 | **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 | UChicago, Stanford, Duke, Columbia |
 
-## Econ Consulting PhD-level Interview Tips
-The interviews for econ consulting are quite uniform and are very similar to the style of academia interviews. This means the marginal cost for preparing an interview for each firm is quite low. 
+---
 
-Interview tips TLDR: it is recommended to pick a specific lane for yourself instead of trying to be a jack of all trades. Be truthful about what your research interests are, even when the research itself might have nothing to do with the cases they have been working on. Many econ consultants are buried under their work and love to talk about something unrelated to their cases. 
+## Interview Tips
+Interviews for economic consulting are fairly uniform across firms and share similarities with academic fly-outs, meaning the marginal cost of preparing for additional firms is low.
 
-If you prefer a longer version, I detailed the interview tips in [Econ Consulting Interview Tips](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Econ_Consulting_Interview.md).
+**TL;DR:**
+* **Pick a Lane:** Avoid trying to be a "jack of all trades."
+* **Be Authentic:** Be truthful about your research interests, even if they don't align with the firm's cases. Consultants are often "case-fatigued" and enjoy discussing novel, unrelated economic topics during the job talk.
+* **Know the Industry:** Demonstrate that you understand what the job actually entails (supporting experts, data work, report writing) vs. what you *think* it entails (pure academic research).
 
-## Firm Comparisons
+For a deep dive, see my detailed guide: [**Econ Consulting Interview Tips**](https://github.com/gordonjgz/econ_phd_consulting_job_market/blob/main/Econ_Consulting_Interview.md).
