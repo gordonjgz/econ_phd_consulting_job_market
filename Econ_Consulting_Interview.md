@@ -2,75 +2,83 @@
 **Author**: Gordon Ji  
 **Degree**: Ph.D. in Economics  
 **Institution**: University of Texas at Austin  
-**Job Market Year**: 2025-2026
+**Job Market Year**: 2025–2026
 
-This document is to share some tips for econ consulting interviews, specifically for Econ PhD students applying for Associate level positions. Noted that the interview format between firms is largely uniform, and quite similar to academia job market interviews. The interview process will be 2-3 rounds: 1. HR screening (most firms do not have this round), 2. Virtual/In-person interview with 1-2 of the consultants, 3. Fly out. I will discuss the tips for each step, as well as how to secure interviews. 
+This guide outlines tips for economic consulting interviews, specifically tailored for Economics PhD students applying for Associate-level positions. 
 
-### 0. How to secure Interviews?
-This is, I believe, the hardest part to gauge, as HR rarely discloses what they are looking for specifically; however, I think the following factors generally play a role (I will try to rank them in order of importance in my opinion, but as I said, this is my assumption as well):
+**Note:** The interview format is largely uniform across firms and shares similarities with the academic job market. The process typically consists of 2–3 rounds:
+1.  **HR Screening** (Some firms skip this).
+2.  **First Round** (Virtual or in-person with 1–2 consultants).
+3.  **Fly-out** (Final round).
 
-1. Your interests in the consulting industry. What consulting firms do not want is to hire some job market candidates who use consulting as a fallback option if the academic job market does not go well. You do not need to believe this is the best job in the world, but you need to showcase some general curiosity about what they do. You can also use opportunities like attending a virtual info session, tailoring a CV for consulting (try to do a little bit "resume" style format), talking to alumni who are currently working in the consulting industry to learn more about the industry, and writing a non-generic cover letter to highlight your interests. Past experiences in consulting, like summer internships and pre-PhD work experiences, will be your huge assets.
-2. Your letter writer (not just your main advisor). If at least one of your letter writers is a well-known name in the consulting world, i.e., works with consultants a lot as an external expert, then you will very much have an advantage.
-3. Teaching experiences. One of the most important jobs as a consultant is to explain things to non-technical audiences, as well as explain economics to junior analysts who do not have a PhD. Candidates with teaching experience (not just TA) will have an advantage.
-4. Demonstrated experience in mentoring students. Consultants will be managing analysts for specific workstreams, and part of the very important firm culture is mentorship.
-5. The content of your JMP. Compared to academia, the strength and content of your JMP is very important. e.g., if your JMP is related to the housing market, some economics department who specific is looking for a housing economist will find your profile very attractive. On the other hand, consulting is more interested in the way you think, the interesting econometric method/modeling you used, and how you explain your JMP. With that being said, if a certain consulting company has a concentration of cases with a specific industry, and your JMP happens to be in this industry, then you certainly will have an edge. However, this is so hard to plan (and know this kind of information), and I generally don't think it's worth planning. In addition, if your JMP heavily cites one of their affiliated external expert, then you will likely have an advantage.
-6. The prestigeness of your program.
-7. Your field. Nowadays, consulting hires from all kinds of fields, ranging from economic history to macro. The edge for being an IO economist, in my opinion, is very small.
+Below, I discuss how to secure these interviews and provide specific tips for each stage.
 
-Most consulting firms have a deadline on JOE around Nov.1st, same as academia. I will highly recommend applying early, even if the firm has a late deadline (say Dec.1st). Most firms conduct their cycles in a similar timeframe. If you are committing to this industry, applying early round (and make offer decision before the AEA meeting) is a good idea to showcase your interest in the industry. 
+---
 
-### 1. HR screening. 
-Most firms do not do HR screening. But if they do, be sure to treat it as a formal interview to demonstrate your technical skills, and most importantly, your explaining skills. If HR, a person who does not have an econ background, can mostly understand the gist of your JMP, then they will be confident in your presentation skills. 
+### 0. How to Secure Interviews
+Securing the initial interview is often the hardest step to gauge, as HR rarely discloses specific screening criteria. Based on my market experience, I believe the following factors play the largest roles (ranked by estimated importance):
 
-HR, in many cases, will help you with tips for further round interviews, and be sure to write them down; many HR will try to sell their firms, and these are good talking points in the future rounds. 
+1.  **Genuine Interest in the Industry:** Firms want to avoid candidates who view consulting merely as a "fallback" for academia. You don't need to claim it’s your only passion, but you must demonstrate genuine curiosity. 
+    * *Actionable Tip:* Attend virtual info sessions, tailor your CV (use a "resume" format rather than a purely academic CV), and speak to alumni in the industry. A non-generic cover letter highlighting these interactions goes a long way.
+2.  **Letter Writers:** If you have a letter writer who is a "name" in the consulting world (e.g., often serves as an external expert), you have a significant advantage.
+3.  **Teaching Experience:** A consultant's primary job is explaining complex ideas to non-technical audiences. Candidates with lead instructor experience (not just TA grading) have an edge because it demonstrates communication skills.
+4.  **Mentorship Experience:** Associates often manage Research Analysts (RAs). Evidence of mentoring undergraduates or junior students signals that you can handle the managerial aspect of the firm’s culture.
+5.  **Job Market Paper (JMP) Content:** * *Methodology:* Consulting firms value *how* you think and the econometric methods you use.
+    * *Relevance:* While hard to plan for, if your JMP topic aligns with a firm's specific caseload (e.g., housing econometrics for a firm with heavy real estate litigation), you have an edge.
+    * *Citations:* If your paper cites one of the firm's affiliated experts, it often gets noticed.
+6.  **Program Prestige:** Higher-ranked programs still carry weight.
+7.  **Field of Study:** Firms hire from all fields, from Macro to Economic History. The historical advantage of being an IO (Industrial Organization) economist is, in my opinion, smaller than it used to be.
 
-Most importantly, don't disclose any red flags to HR. For example, if you had an internship and are still on the market looking for full-time jobs, regardless of the reason, it is generally not a good idea to disclose to HR that you did not receive the return offer. 
+**Timing:** Most firms have a deadline on **JOE** around **Nov 1st**. Even if a firm lists a later deadline (e.g., Dec 1st), **apply early**. The willingness to secure an offer before the AEA meeting is a strong signal of your commitment to the industry.
 
-### 2. First round interview
-For most cases, first-round interviews will be virtual. However, TEC in NABE ([TEC 2025](https://www.nabe.com/NABE/NABE/Events/TEC25/TEC2025.aspx)) hosts in-person interviews for some consulting firms. Think of it as a replacement for the annual AEA meeting for the private sector, since as of 2025-2026, the annual AEA meeting does not host in person interviews any more. First round interviews most likely will happen between Thanksgiving and Christmas, though I have received a first round interview as late as early February.  
+---
 
-First round interviews for most firms are behavioral + talking about your research (more likely your JMP). If this is the format, I will recommend doing the following:
+### 1. The HR Screening
+While many firms skip this, if you have an HR screen, treat it as a formal interview.
+* **The Goal:** Prove your communication skills. If an HR representative (who likely does not have a PhD) can understand the gist of your JMP, they will be confident putting you in front of a Partner.
+* **Gather Intel:** HR often provides tips for the next rounds. Take notes—they are giving you the "cheat sheet" for their firm's culture.
+* **Avoid Red Flags:** Be discreet. For example, if you are looking for a job because you didn't get a return offer from a past internship, do not disclose the "rejection" aspect to HR. Keep the narrative positive.
 
-1. Prepare different versions of your JMP spiel. Elevator pitch, 30s, 1 min, 2 min. Really depends on the format, time constraints, and how many interviewers. You don't need to show everything at once, and likely you can't show your JMP altogether. Leave some room for questions.
-2. Consultants are very smart economists, so be ready for grilling on any parts of your JMP, from your data to the assumptions you made, as well as your econometric methods. Be candid about your shortcomings.
-3. For behavior questions, be ready to answer: Why consulting? Why not academic or tech? Have you applied for academia or tech (you should be honest, say yes, but my priority is consulting)
-4. For "Tell me about yourself". Craft multiple versions of your story depending on time constraints and audience. Tell it like a story. Mention relevant experiences or achievements that couldn’t fit on your resume but could help you stand out. Take time to refine your answer. It’s worth it and could make you memorable.
-5. Sometimes the consultant will ask you to explain jargon, e.g., explain Maximum Likelihood Estimation to people who don't study economics, or explain IV to a non-technical audience.
-6. Other interesting questions I got asked: Why did you choose your field? What are your general research interests and why? How did you choose your advisor? I got someone asking me, why do you want to be an econ PhD student?
+---
 
-In the end, be sure to prepare some questions to ask them. Good questions include firm culture, staffing model, or anything that showcases your curiosity in the industry. After the interview, be sure to write thank-you notes to your interviewers. If they take time to respond to your thank-you notes, it's an indication of a good sign. 
+### 2. First Round Interview
+**Format:** mostly virtual.
+**Exception:** The **NABE TEC Conference** ([TEC 2025](https://www.nabe.com/NABE/NABE/Events/TEC25/TEC2025.aspx)) hosts in-person interviews for some firms. Think of TEC as the "private sector replacement" for the AEA meetings, as the AEA no longer hosts in-person interviews.
+**Timing:** Usually between Thanksgiving and Christmas, though some can happen as late as February.
 
-Few and few companies are still using case interviews as a first-round interview format. For case interviews, I will recommend doing the following:
+**Part A: The Behavioral & Research Interview**
+1.  **The JMP "Spiel":** Prepare 30-second, 1-minute, and 2-minute versions of your research pitch. You won't have time to present the whole paper. Leave room for questions.
+2.  **The "Grill":** Consultants are sharp economists. Be ready for deep technical questions about your data cleaning, assumptions, and econometric identification. Be candid about your paper's limitations.
+3.  **The "Why" Questions:** * *Why consulting?*
+    * *Why not academia/tech?* (Be honest: "I applied to academia, but consulting is my priority because [X].")
+4.  **The "Jargon" Test:** You may be asked to explain technical concepts (e.g., Maximum Likelihood, Instrumental Variables) to a layperson. Practice this.
+5.  **Reverse Interviewing:** Ask questions about firm culture, staffing models, or recent cases. Sending a personalized thank-you note afterward is standard etiquette; a response is usually a good sign.
 
-1. Review consulting websites for case examples to familiarize yourself.
-2. Explore guidelines like the DOJ Merger Guidelines or skim books like the Handbook of Antitrust to understand how consultants think and approach problems. Focus less on the jargon, but more on the structure of thinking.
-3. When answering case study questions, use a step-by-step approach, starting with a simple explanation. Be sure to explain the economics and the big picture instead of falling into the weeds of model/data. E.g., the goal here is to prove that A causes B, we will be looking for data C, D, and E. With endogeneity concerns, we can look for a certain IV, instead of focusing too much on the details of whether data C is available, and how we should process these.
-4. Sometimes you will be asked to argue against yourself; be prepared for that. For example, if you are first asked to argue for the plaintiff, the interviewer might ask you to switch sides and argue for the defendants. Don't argue against yourself.
-5. Don't be controlled by your prior, and be fair to both sides. 
-6. Use AI as a good mock interview tool for case interviews. 
+**Part B: The Case Interview (Less Common)**
+Fewer firms use formal case interviews now, but if they do:
+1.  **Preparation:** Review the **DOJ Merger Guidelines** or the *Handbook of Antitrust* to understand the *structure* of thinking (Market Definition -> Competitive Effects -> Entry/Efficiencies).
+2.  **Structure Over Weeds:** If asked to prove "A causes B," outline the strategy (e.g., "We need data on X and Y to run a regression...") rather than getting bogged down in data availability immediately.
+3.  **Flexibility:** You may be asked to argue for the Plaintiff, then switch and argue for the Defendant. Do not be dogmatic. Show you can see both sides of an economic argument.
+4.  **Tool Tip:** AI models are actually quite good at generating mock case interview questions for practice.
 
-Regardless of the format, you should treat your interview as a conversation. It helps a lot not treat it as an interview. Be cool, but do not try hard to look cool.
+---
 
-### 3. Fly outs
-Just like academia flyouts, consulting flyouts usually have your presentation (usually your JMP) and multiple rounds of interviews. The interviews themselves are largely similar to first-round interviews, but focus more on culture fit and your presentation skills, instead of gauging your technical skills. Flyouts for the early round will be before Christmas (so that you can sign the offer before the AEA meeting), and mid-January to late February for the regular round. Here are a couple of important tips in addition to the typical JMP presentation in academia:
+### 3. Fly-outs
+Consulting fly-outs are similar to academic fly-outs: a JMP presentation + multiple 1-on-1 (sometimes 2-on-1) interviews.
+**Timing:** Early round is pre-Christmas; Regular round is mid-Jan to late Feb.
 
-1. For your JMP, ask about the length. Typically, an academia flyout will have your presentation to be 75-90 mins. In consulting, it's likely to be 60 mins, meaning you will need to cut down some slides.
-2. For your slides, be extra, extra careful regarding typos, mislabeling, and the clarity of your graphs.
-3. Just like academia presentation, you need to make sure people with basic economic knowledge can mostly understand what you are doing.
-4. Be honest about your shortcomings and don't try to be too defensive.
-5. I personally will not recommend trying too hard to tailor to consulting audiences, especially for IO students. They understand this is your JMP produced for research purposes, and authenticity is an asset here.
-6. Last but not least, don't underestimate your job talk. It still counts as a relatively large portion of your grade for your flyout.
+**The Job Talk (Presentation)**
+1.  **Length:** Usually **60 minutes** (shorter than the academic 75-90 mins). You *must* cut slides.
+2.  **Polish:** Be obsessive about typos and graph clarity.
+3.  **Audience:** Ensure the intuition is accessible to generalists. Do not assume everyone is in your field.
+4.  **Authenticity:** Don't overhaul your JMP to make it look like a "consulting case." They know it's academic research. Authenticity and rigor are your assets here.
 
-In addition, for the interviews and other logistics, here are some tips I think are worth mentioning:
+**Interviews & Logistics**
+1.  **The "Airport Test":** Be kind to administrative staff. They are often asked for their opinion on your behavior ("Would I want to be stuck at an airport with this person?").
+2.  **Junior Interviewers:** You may be interviewed by a junior Analyst. This tests your management potential. Treat them with the same respect you would a student coming to office hours.
+3.  **Why You?** If you made it to the fly-out, they see something specific in you. Try to figure out what it is (e.g., your specific skill set or industry focus) and lean into it.
+4.  **Scheduling:** If given a choice, pick **Tuesday or Wednesday** (when more senior staff are in the office).
+5.  **Lunch:** This is a "culture fit" test. Keep conversation semi-casual (work-life balance, city life) but professional. When ordering, match the price range of your hosts.
+6.  **Follow-up:** Send thank-you emails within 24 hours.
 
-1. Be nice to administrative people. This is very important. If you get hired by the firm, they will be your colleague as well. When coordinating flights/hotel, try to be easy to work with and follow the reimbursement guidelines.
-2. It is possible they will schedule you with a junior RA to test your management skills. Part of the job as a PhD-level Associate is to manage RAs. A good mentality is to treat them as a very hard-working student coming to the office hour. 
-3. Prepare a carry bag with all your stuff. You cannot risk the airline losing your checked luggage.
-4. Get your flu shot beforehand; you cannot be sick during flyout seasons.
-5. Perhaps most importantly, try to gauge the reason they want to hire you. If you can make it to the fly-out, there must be something that's unique to you that you can exploit to your advantage. For example, it could be your JMP fits a specific industry/type of cases they have been working on, or the specific skills you have demonstrated either in the first round or on your CV. I will recommend finding the common cases or connections between your first round interviewers (who must have given you a thumbs up) and your fly-out interviewers, and see the reason they scheduled you with these interviewers for the flyout (though sometimes there are no intentions there, and it's purely who is available).
-6. Prepare interesting questions to ask your interviewers, showcasing your genuine interests in the industry and the company itself.
-7. If you get to choose your flyout date, try to make it either on Tuesday or Wednesday. Most likely, consulting firms are in a hybrid mode where the principals are more likely to come to the office on these days of the week.
-8. If you can choose your batch (early in the season or late in the season), I personally will pick skew earlier, tho there are different schools of thought on this. 
-9. Write thank-you emails within 24 hours. Again, you can use these as a gauge for how well you did.
-10. Flyout usually includes a lunch with 1-2 Associates of the firm. This is certainly a part of interview testing for culture fit. Be sure to prepare lots of questions to ask them. The questions can be more casual during lunch, like how's the work-life balance, what is the life in (target city), what type of cases you are working on, etc. When ordering the food, try to be around the same price range as what others are ordering.
-
+**Final Logistics Tip:** Get your flu shot. You cannot afford to be sick during fly-out season. Prepare everything in a carry-on luggage, as you cannot afford to lose your checked bag.  
