@@ -12,8 +12,8 @@ While the technical work (running regressions, writing reports) is similar acros
 * **The Trade-off**: You have freedom, but you also have the "burden" of networking. You need to be proactive to fill your plate with good work.
 * **Best For**: PhDs who are social, value autonomy, and want the safety net of being able to switch practice areas without leaving the firm.
 
-### 2. The "Silo" / Franchise Models
-**Examples**: Compass Lexecon, Charles River Associates (CRA), Berkeley Research Group (BRG)
+### 2. The "Franchise" / Practice-Centric Models
+**Examples**: Compass Lexecon, FTI Consulting, Charles River Associates (CRA), Berkeley Research Group (BRG)
 
 * **The Model**: These firms often operate as a federation of specialized franchises. You are typically hired *into* a specific practice group or to support a specific Senior Managing Director (SMD).
 * **Berkeley Research Group (BRG)**: Known for a highly entrepreneurial "expert-led" model. The culture is very distinct depending on if you are in the Tech practice (David Teece’s group) vs. Healthcare or Construction. It can feel like working for a small startup within a large brand.
@@ -30,19 +30,27 @@ While the technical work (running regressions, writing reports) is similar acros
     * *Vibe:* Known for a "summer camp" culture. Very collegiate, tight-knit, and DC-focused. They pride themselves on "growing their own" experts internally.
 * **Best For**: PhDs who want an intellectual, academic environment but are okay with (or prefer) deep specialization in a specific industry like Energy or Finance.
 
-### 4. The Fixed-Team Specialists
+### 4. The Integrated Specialists
+**Example**: Econic Partners
+
+* **The Model**: A **Specialized Boutique** with a **"One-Firm" Staffing** philosophy.
+* **The Work**: Currently, the firm is heavily focused on **Antitrust & Competition**. Unlike a generalist firm where you might rotate into Finance or Healthcare, here you are signing up specifically to be an antitrust economist.
+* **Staffing Dynamics**: Highly integrated and cross-office. Because the entire firm is focused on the same mission (Antitrust), they staff based on **skillset match** rather than location. You are not "owned" by your local office; you are a resource for the entire firm.
+* **The Trade-off**: You get the "One-Firm" culture (fluid staffing, mentorship, no sharp elbows) but without the "Generalist" variety. You are betting your career on Antitrust.
+
+### 5. The Fixed-Team Specialists
 **Example**: NERA Economic Consulting
 
 * **The Model**: NERA prides itself on a highly structured, practice-specific model. Unlike the "internal market" of AG, NERA teams are often distinct and stable.
 * **Staffing Dynamics**: You typically work with the **same team** on the **same type of cases** consistently. There is less "churn" of working with different people on every new project.
 * **The Trade-off**: You get immense stability and team cohesion (no need to constantly "network" for work), but you have less variety. You won't be jumping from an Antitrust case on Monday to a Securities case on Friday.
-* **Best For**: PhDs who prefer stability and consistency—knowing exactly who they will work with every day and what kind of problems they will solve.
 
-### 5. The Tech Hybrids & New Entrants
-**Examples**: Keystone Strategy, Econic Partners
+### 6. The Tech Hybrid
+**Example**: Keystone Strategy
 
-* **Keystone**: Operates more like a tech strategy firm (McKinsey meets Google). Staffing is project-based but moves at a much faster, "tech" pace. They often only work in the tech industry. High volatility, high exit opportunities to Tech Strategy. 
-* **Econic**: A new entrant focused on high-stakes antitrust. Likely offers a "start-up" equity component or high compensation variance, with a focus on building a new elite team from the ground up.
+* **The Model**: Operates more like a tech strategy firm (McKinsey meets Google). Staffing is project-based but moves at a much faster, "tech" pace.
+* **The Vibe**: High volatility, high exit opportunities to Tech Strategy/Product Management.
+* **Best For**: PhDs who want to exit into Tech Strategy rather than traditional data science or economics roles.
 
 ---
 
@@ -51,6 +59,7 @@ While the technical work (running regressions, writing reports) is similar acros
 | Firm Type | Key Firms | How you get staffed | The Trade-off |
 | :--- | :--- | :--- | :--- |
 | **Internal Market** | AG, Cornerstone | **Networking**: You build relationships to find work you like. | Requires soft skills to "sell" yourself internally; can feel unstructured. |
-| **The Silo** | Compass, CRA, BRG| **Assignment**: You work for your specific practice/boss. | High specialization; risk of getting stuck in a bad team/practice. |
-| **Academic Silo** | Brattle | **Practice-Based**: Hired into a specific vertical (e.g., Energy). | Collegiate vibe, but less mobility than "Internal Market" firms. |
+| **The Franchise** | Compass, CRA, BRG, FTI | **Assignment**: You work for your specific practice/boss. | High specialization; risk of getting stuck in a bad team/practice. |
+| **Academic Silo** | Brattle, Bates White | **Practice-Based**: Hired into a specific vertical (e.g., Energy). | Collegiate vibe, but less mobility than "Internal Market" firms. |
+| **Integrated Specialist** | Econic | **Skill-Based**: Staffed across all offices based on skillset. | "One-Firm" culture, but strictly limited to Antitrust work. |
 | **Fixed Team** | NERA | **Stable Unit**: You work with a consistent team. | Very stable workflow; less variety in case types and coworkers. |
