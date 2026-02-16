@@ -34,7 +34,7 @@ While the technical work (running regressions, writing reports) is similar acros
 **Example**: Econic Partners
 
 * **The Model**: A **Specialized Boutique** with a **"One-Firm" Staffing** philosophy.
-* **The Work**: Currently, the firm is heavily focused on **Antitrust & Competition**. Unlike a generalist firm where you might rotate into Finance or Healthcare, here you are signing up specifically to be an antitrust economist.
+* **The Work**: Currently, the firm is heavily focused on **Antitrust & Competition**, essentially a "rebrand" from Compass Lexecon. Unlike a generalist firm where you might rotate into Finance or Healthcare, here you are signing up specifically to be an antitrust economist.
 * **Staffing Dynamics**: Highly integrated and cross-office. Because the entire firm is focused on the same mission (Antitrust), they staff based on **skillset match** rather than location. You are not "owned" by your local office; you are a resource for the entire firm.
 * **The Trade-off**: You get the "One-Firm" culture (fluid staffing, mentorship, no sharp elbows) but without the "Generalist" variety. You are betting your career on Antitrust.
 
