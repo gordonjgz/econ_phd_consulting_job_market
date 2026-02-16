@@ -17,7 +17,7 @@ While the technical work (running regressions, writing reports) is similar acros
 
 * **The Model**: These firms often operate as a federation of specialized franchises. You are typically hired *into* a specific practice group or to support a specific Senior Managing Director (SMD).
 * **Berkeley Research Group (BRG)**: Known for a highly entrepreneurial "expert-led" model. The culture is very distinct depending on if you are in the Tech practice (David Teece’s group) vs. Healthcare or Construction. It can feel like working for a small startup within a large brand.
-* **Staffing Dynamics**: Work is vertical-specific. If you are hired into the Merger practice, you will work almost exclusively on merger cases. You are less likely to float between groups compared to AG.
+* **Staffing Dynamics**: Work is vertical-specific. If you are hired into the Aniitrust and Competition practice, you will work almost exclusively on these cases. You are less likely to float between practices compared to AG. However, within antitrust practice, at least at first, you can explore different genres of antitrust cases. 
 * **Culture**: "Depth over Breadth." You become a deep subject matter expert very quickly. The culture is defined entirely by your specific team—some are relaxed "lifestyle" teams, others are high-intensity "sweatshops" with higher bonus potential.
 
 ### 3. The "Academic" Silos
