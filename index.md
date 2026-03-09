@@ -37,6 +37,7 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 
 ## Job Market Overview: Placement Trends
 > **Note on Data:** The following table aggregates initial placement results for job market candidates from approximately the top 30 economics departments between 2020 and 2025. This data was compiled using AI-assisted research tools to synthesize public placement records and LinkedIn data. It is not exhaustive and should be treated as a qualitative snapshot of recruiting trends rather than a precise census.
+
 | Firm | 2020-21 (Tech Peak) | 2021-22 (The Turn) | 2022-23 (Correction) | 2023-24 (Stabilization) | 2024–25 (Current) | Primary Talent Feeders |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | **Analysis Group** | 25–30 | 30–35 | 40–50 | 45–55 | 50+ | Harvard, MIT,<br>Boston Univ,<br>Berkeley, Wisconsin |
