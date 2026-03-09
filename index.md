@@ -38,25 +38,36 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 ## Job Market Overview: Placement Trends
 > Note on Data: The following table aggregates initial placement results for job market candidates from approximately the top 30 economics departments between 2020 and 2025. This data was compiled using AI-assisted research tools to synthesize public placement records and LinkedIn data. It is not exhaustive and should be treated as a qualitative snapshot of recruiting trends rather than a precise census.
 
-<div style="overflow-x: auto;">
+| Firm | 2020-21 (Tech Peak) | 2021-22 (The Turn) | 2022-23 (Correction) | 2023-24 (Stabilization) | 2024–25 (Current) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Analysis Group** | 25–30 | 30–35 | 40–50 | 45–55 | 50+ |
+| **Bates White** | 8–10 | 10–12 | 12–15 | 15–18 | 15–18 |
+| **Berkeley Research Group** | 8–10 | 10–12 | 12–15 | 15–18 | 15–20 |
+| **Chas. River Assoc. (CRA)** | 15–20 | 15–20 | 20–25 | 25–30 | 25–30 |
+| **Compass Lexecon** | 12–15 | 15–18 | 18–22 | 20–25 | 20–25 |
+| **Cornerstone Research** | 20–25 | 25–30 | 30–35 | 35–40 | 35–40 |
+| **Econic Partners** | N/A | N/A | N/A | N/A | 5–8 |
+| **Keystone Strategy** | 3–5 | 5–8 | 8–12 | 12–15 | 15–20 |
+| **NERA** | 10–12 | 10–12 | 12–15 | 12–15 | 15–18 |
+| **Secretariat / Intensity** | 2–3 | 3–5 | 5–8 | 8–10 | 10–12 |
+| **Amazon** | 80+ | 90+ | 35–45 | 30–40 | 35–45 |
+| **Meta (Facebook)** | 15–20 | 10–15 | <5 | 5–8 | 8–10 |
+| **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 |
 
-| Firm | 2020-21 (Tech Peak) | 2021-22 (The Turn) | 2022-23 (Correction) | 2023-24 (Stabilization) | 2024–25 (Current) | Primary Talent Feeders |
-| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Analysis Group** | 25–30 | 30–35 | 40–50 | 45–55 | 50+ | Harvard, MIT,<br>Boston Univ,<br>Berkeley, Wisconsin |
-| **Bates White** | 8–10 | 10–12 | 12–15 | 15–18 | 15–18 | Johns Hopkins,<br>Maryland,<br>Penn State, UVa |
-| **Berkeley Research Group** | 8–10 | 10–12 | 12–15 | 15–18 | 15–20 | Berkeley, Florida State,<br>Georgetown, Texas A&M |
-| **Chas. River Assoc. (CRA)** | 15–20 | 15–20 | 20–25 | 25–30 | 25–30 | Boston College, UCLA,<br>Michigan, Toronto |
-| **Compass Lexecon** | 12–15 | 15–18 | 18–22 | 20–25 | 20–25 | UChicago, Northwestern,<br>Yale, Harvard |
-| **Cornerstone Research** | 20–25 | 25–30 | 30–35 | 35–40 | 35–40 | Northwestern, UCLA,<br>UPenn, UChicago, Stanford |
-| **Econic Partners** | N/A | N/A | N/A | N/A | 5–8 | (New Entrant) |
-| **Keystone Strategy** | 3–5 | 5–8 | 8–12 | 12–15 | 15–20 | Harvard, Stanford,<br>Rochester, Penn State |
-| **NERA** | 10–12 | 10–12 | 12–15 | 12–15 | 15–18 | Columbia, NYU,<br>LSE, UPenn |
-| **Secretariat / Intensity** | 2–3 | 3–5 | 5–8 | 8–10 | 10–12 | Johns Hopkins,<br>UCSD, UCLA |
-| **Amazon** | 80+ | 90+ | 35–45 | 30–40 | 35–45 | UW Seattle, Minnesota,<br>UCLA, Stanford, Duke |
-| **Meta (Facebook)** | 15–20 | 10–15 | <5 | 5–8 | 8–10 | Stanford, Berkeley,<br>Harvard |
-| **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 | UChicago, Stanford,<br>Duke, Columbia |
-
-</div>
+### Primary Talent Feeders by Firm
+* **Analysis Group:** Harvard, MIT, Boston Univ, Berkeley, Wisconsin
+* **Bates White:** Johns Hopkins, Maryland, Penn State, UVa
+* **Berkeley Research Group:** Berkeley, Florida State, Georgetown, Texas A&M
+* **Chas. River Assoc. (CRA):** Boston College, UCLA, Michigan, Toronto
+* **Compass Lexecon:** UChicago, Northwestern, Yale, Harvard
+* **Cornerstone Research:** Northwestern, UCLA, UPenn, UChicago, Stanford
+* **Econic Partners:** (New Entrant)
+* **Keystone Strategy:** Harvard, Stanford, Rochester, Penn State
+* **NERA:** Columbia, NYU, LSE, UPenn
+* **Secretariat / Intensity:** Johns Hopkins, UCSD, UCLA
+* **Amazon:** UW Seattle, Minnesota, UCLA, Stanford, Duke
+* **Meta (Facebook):** Stanford, Berkeley, Harvard
+* **Uber:** UChicago, Stanford, Duke, Columbia
 ---
 
 ## Interview Tips
