@@ -36,7 +36,7 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 ---
 
 ## Job Market Overview: Placement Trends
-> **Note on Data:** The following table aggregates initial placement results for job market candidates from approximately the top 30 economics departments between 2020 and 2025. This data was compiled using AI-assisted research tools to synthesize public placement records and LinkedIn data. It is not exhaustive and should be treated as a qualitative snapshot of recruiting trends rather than a precise census.
+> Note on Data: The following table aggregates initial placement results for job market candidates from approximately the top 30 economics departments between 2020 and 2025. This data was compiled using AI-assisted research tools to synthesize public placement records and LinkedIn data. It is not exhaustive and should be treated as a qualitative snapshot of recruiting trends rather than a precise census.
 
 | Firm | 2020-21 (Tech Peak) | 2021-22 (The Turn) | 2022-23 (Correction) | 2023-24 (Stabilization) | 2024–25 (Current) | Primary Talent Feeders |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -53,6 +53,7 @@ Another reason firms are selective is that they invest heavily in retention. Unl
 | **Amazon** | 80+ | 90+ | 35–45 | 30–40 | 35–45 | UW Seattle, Minnesota,<br>UCLA, Stanford, Duke |
 | **Meta (Facebook)** | 15–20 | 10–15 | <5 | 5–8 | 8–10 | Stanford, Berkeley,<br>Harvard |
 | **Uber** | 8–12 | 5–8 | 3–5 | 3–5 | 5–8 | UChicago, Stanford,<br>Duke, Columbia |
+
 ---
 
 ## Interview Tips
